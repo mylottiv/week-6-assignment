@@ -1,0 +1,16 @@
+body{
+    background: url(images/background.jpg);
+    background-size: auto;
+}
+#gif-display > .row{
+    margin-left: 100px;
+}
+.topic{
+    margin: 7px;
+}
+.gif{
+    margin: 3px;
+}
+.gif > p{
+    font-weight: bolder;
+}
